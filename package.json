@@ -1,6 +1,7 @@
 {
   "name": "test",
   "license": "GPL-3.0-or-later",
+  "type": "module",
   "devDependencies": {
     "prettier": "^3.1.1",
     "typescript": "^5.3.3"

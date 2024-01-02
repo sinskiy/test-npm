@@ -1,4 +1,4 @@
-# test-npm
+# sinskiy-test-npm
 
 ## 0.0.2
 

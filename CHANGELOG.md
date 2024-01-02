@@ -1,4 +1,4 @@
-# test
+# test-npm
 
 ## 0.0.3
 

@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "version": "0.0.3",
+  "name": "test-npm",
+  "version": "0.0.2",
   "license": "GPL-3.0-or-later",
   "type": "module",
   "main": "dist/index.js",

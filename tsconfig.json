@@ -9,8 +9,7 @@
     "moduleDetection": "force",
     "strict": true,
     "noUncheckedIndexedAccess": true,
-    "moduleResolution": "Bundler",
-    "module": "ESNext",
+    "module": "NodeNext",
     "noEmit": true
   }
 }

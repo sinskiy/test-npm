@@ -1,5 +1,11 @@
 # test
 
+## 0.0.3
+
+### Patch Changes
+
+- b6a3dcb: fix some issues
+
 ## 0.0.2
 
 ### Patch Changes
